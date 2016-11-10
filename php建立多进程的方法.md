@@ -1,4 +1,4 @@
-<img src="http://139.129.42.87/wp-content/uploads/2016/02/php.jpg" alt="php" width="300" height="439" class="aligncenter size-full wp-image-124" />
+<img src="http://www.littlenote.cn/wp-content/uploads/2016/02/php.jpg" alt="php" width="300" height="439" class="aligncenter size-full wp-image-124" />
 
 通常情况下，我们建立PHP脚本做后台任务处理时，我们不会让一个PHP进程一直运行下去（考虑到PHP稳定性的问题），而是不断产生新的进程，并让老进程结束。这里我们给出了几个在Linux系统下实现PHP多进程的方法。
 
