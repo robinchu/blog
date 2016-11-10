@@ -283,8 +283,8 @@ n & \text{Left} & \text{Center} & \text{Right} \\\
 
 ### 参考文献
 
-[^1]:[LaTeX符号集文档](http://www.littlenote.cn/wp-content/uploads/2016/01/LaTeX_Symbols.pdf)
+[^1]: [LaTeX符号集文档](http://www.littlenote.cn/wp-content/uploads/2016/01/LaTeX_Symbols.pdf)
 
-[^2]:[LaTeX符号表](http://blog.sina.com.cn/s/blog_642075770100u0np.html)
+[^2]: [LaTeX符号表](http://blog.sina.com.cn/s/blog_642075770100u0np.html)
 
-[^3]:[MathJax基本结构](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
+[^3]: [MathJax基本结构](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
