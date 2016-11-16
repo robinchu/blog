@@ -58,4 +58,12 @@ var {foo:fo, bar:bar} = {foo:"aaa", bar:"bbb"}
 6. 遍历Map结构
 7. 输入模块的指定方向
 
-j
+## 字符串模板
+
+## RegExp
+
+1. u修饰符
+2. i修饰符
+3. g修饰符
+4. y修饰符
+
